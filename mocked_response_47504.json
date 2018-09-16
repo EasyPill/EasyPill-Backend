@@ -1,0 +1,18 @@
+{
+    "dosage": [
+        {
+            "targetGroup": "adults",
+            "doses": [
+                        {"maxPerDay": 8},
+                        {"intervalInHours": 4}
+                     ]
+        },
+        {
+            "targetGroup": "children",
+            "doses": [
+                        {"maxPerDay": 0},
+                        {"intervalInHours": 0}
+                     ]
+        }
+    ]
+}
